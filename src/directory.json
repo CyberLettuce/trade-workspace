@@ -1,0 +1,317 @@
+[
+  {
+    "section": "Stored Data",
+    "label": "Shipment Templates",
+    "key": "transactionprofiles"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Item Templates",
+    "key": "lineitemprofiles"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Customs Item Templates",
+    "key": "consolidateditemprofiles"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Export Item Declaration Templates",
+    "key": "cdsexportitemdeclarationtemplates"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Import Item Declaration Templates",
+    "key": "cdsimportitemdeclarationtemplates"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Consignees / Importers",
+    "key": "consignees"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Sellers / Exporters",
+    "key": "exporters"
+  },
+  {
+    "section": "Stored Data",
+    "label": "AI Statements (DE2/2)",
+    "key": "cdsadditionalcodes"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Bank Details",
+    "key": "bankdetails"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Bank Documents",
+    "key": "bankcollections"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Buyers",
+    "key": "buyers"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Certificates",
+    "key": "certificateprofiles"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Charges",
+    "key": "chargeprofiles"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Clients",
+    "key": "clients"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Country Codes",
+    "key": "countries"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Currency Codes",
+    "key": "currencies"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Customs Procedures (DE2/10)",
+    "key": "cdscustomsprocedures"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Dangerous Goods Note",
+    "key": "dangeroustransport"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Delivery Terms",
+    "key": "deliveryterms"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Despatch Advice",
+    "key": "despatchadvice"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Document Sets",
+    "key": "printbatches"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Documents (DE2/3)",
+    "key": "cdsdocuments"
+  },
+  {
+    "section": "Stored Data",
+    "label": "ECSI Details",
+    "key": "agentsinstructions"
+  },
+  {
+    "section": "Stored Data",
+    "label": "EMCS Templates",
+    "key": "emcstemplates"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Hazards",
+    "key": "hazards"
+  },
+  {
+    "section": "Stored Data",
+    "label": "IBAP Codes",
+    "key": "ibapcodes"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Invoice Declarations",
+    "key": "invoicedeclarations"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Letter of Credit",
+    "key": "lettersofcredit"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Manufacturers / Suppliers",
+    "key": "manufacturers"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Modes of Transport",
+    "key": "modesoftransport"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Notify/Forwarders",
+    "key": "freightforwarders"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Order Types",
+    "key": "ordertypes"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Packages",
+    "key": "cartons"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Ports",
+    "key": "portcodes"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Shipment Statuses",
+    "key": "transactionstatuses"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Tariff Codes",
+    "key": "tariffs"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Tariff Codes (DE6/14)",
+    "key": "cdstariffs"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Trem Cards",
+    "key": "tremcards"
+  },
+  {
+    "section": "Stored Data",
+    "label": "VAT Codes",
+    "key": "vatcodes"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Consignee Traders",
+    "key": "consigneetraders"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Consignor Traders",
+    "key": "consignortraders"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Delivery Place Traders",
+    "key": "deliveryplacetraders"
+  },
+  {
+    "section": "Stored Data",
+    "label": "First Transporter Traders",
+    "key": "firsttransportertraders"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Place of Dispatch Traders",
+    "key": "placeofdispatchtraders"
+  },
+  {
+    "section": "Stored Data",
+    "label": "Transport Arranger Traders",
+    "key": "transportarrangertraders"
+  },
+  {
+    "section": "Reports",
+    "label": "Import Final Supplementary Dec",
+    "key": "cfspfsd"
+  },
+  {
+    "section": "Reports",
+    "label": "Import Statuses",
+    "key": "cfspreports"
+  },
+  {
+    "section": "Reports",
+    "label": "Import Duties - Shipment",
+    "key": "cfsptaxreports-drs"
+  },
+  {
+    "section": "Reports",
+    "label": "Import Duties - Item",
+    "key": "cfsptaxreports-dri"
+  },
+  {
+    "section": "Reports",
+    "label": "Customs Data Report",
+    "key": "customsdatareport"
+  },
+  {
+    "section": "Reports",
+    "label": "EMCS Status Follow Up",
+    "key": "emcsreports-statusfollowup"
+  },
+  {
+    "section": "Reports",
+    "label": "EMCS Quantity Reconciliation",
+    "key": "emcsreports-quantityreconciliation"
+  },
+  {
+    "section": "Reports",
+    "label": "NES Statuses",
+    "key": "nesreports"
+  },
+  {
+    "section": "Reports",
+    "label": "NES Arrived/Departed",
+    "key": "nesarriveddepartedreport"
+  },
+  {
+    "section": "Reports",
+    "label": "Shipment Data",
+    "key": "summarytransactionreport"
+  },
+  {
+    "section": "Reports",
+    "label": "Stored Data Report",
+    "key": "storeddatareport"
+  },
+  {
+    "section": "Reports",
+    "label": "Shipment Values",
+    "key": "shipmentvaluesreport"
+  },
+  {
+    "section": "Reports",
+    "label": "CDS Import Duties - Item",
+    "key": "cdstaxreports-dri"
+  },
+  {
+    "section": "Reports",
+    "label": "CDS Imports",
+    "key": "cdsimportsreport"
+  },
+  {
+    "section": "Reports",
+    "label": "CDS Exports",
+    "key": "cdsexportsreport"
+  },
+  {
+    "section": "Reports",
+    "label": "CDS Export Frontier/SD report",
+    "key": "cdsexportfrontiersdreport"
+  },
+  {
+    "section": "Reports",
+    "label": "CDS Import Frontier/SD report",
+    "key": "cdsimportfrontiersdreport"
+  },
+  {
+    "section": "Reports",
+    "label": "ENS Safety and Security report",
+    "key": "enssafetyandsecurityreport"
+  }
+]
